@@ -41,7 +41,7 @@ networkx == 2.4
 # CTC-model/code/launch_tracers_fullsystem.py: 20
 # CTC-model/code/manuscript.py: 4
 # CTC-model/code/optimize_organ_coefficients.py: 11
-numpy == 1.18.1
+numpy == 1.22.0
 
 # CTC-model/code/BodyPartsPy/bodypart.py: 21
 # CTC-model/code/BodyPartsPy/bodysystem.py: 21
