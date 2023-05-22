@@ -57,7 +57,7 @@ numpy == 1.18.1
 pandas == 1.0.1
 
 # CTC-model/code/BodyPartsPy/viz.py: 11
-requests == 2.22.0
+requests == 2.31.0
 
 # CTC-model/code/BodyPartsPy/utils.py: 11
 # CTC-model/code/BodyPartsPy/viz.py: 9,10
