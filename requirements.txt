@@ -70,7 +70,7 @@ scikit_learn == 0.22.1
 # CTC-model/code/BodyPartsPy/qc.py: 14
 # CTC-model/code/BodyPartsPy/utils.py: 9
 # CTC-model/code/manuscript.py: 5
-scipy == 1.4.1
+scipy == 1.10.0
 
 # CTC-model/code/launch_tracers_fullsystem.py: 21
 tqdm == 4.42.1
